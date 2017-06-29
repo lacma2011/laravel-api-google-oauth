@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Demo</title>
+<script type="text/javascript" src="js/vendor/requirejs/require.min.js"></script>
+<script type="text/javascript" src="js/require-config.js"></script>
+<script>
+
+(function() {
+    // Application is at js/app.js 
+    // It loads along with dependencies with requireJS 2 (AMD loading)
+    requireJS(['app'], function(app) {
+        app();
+    });
+}());
+
+</script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap-grid.min.css"> 
+</head>
+<body>
+<button id="sign-in-or-out-button"
+        style="margin-left: 25px">Sign In/Authorize</button>
+<button id="revoke-access-button"
+        style="display: none; margin-left: 25px">Revoke access</button>
+
+<div id="auth-status" style="display: inline; padding-left: 25px"></div><hr>
+
+<div class="searchbox">
+    <div class="container-fluid">
+      <div class="row content">
+        <div class="col-sm-3 sidenav">
+          <h4>Artist Search</h4>
+          <div class="input-group">
+            <input type="text" id="name" class="form-control" placeholder="Search Artist..">
+          </div>
+          <div class="api-message"></div>
+        </div>
+
+        <div class="col-sm-9" id="results">
+          <h4><small>RESULTS</small></h4>
+          <hr>
+            <table class="artists"></table>
+        </div>
+      </div>
+    </div>
+
+    <footer class="container-fluid">
+
+    </footer>
+</div>    
+</body>
+</html>

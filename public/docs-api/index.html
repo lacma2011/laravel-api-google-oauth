@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>API Documentation</title>
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: black;
+                font-family: 'Raleway', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .top-right {
+                position: absolute;
+                right: 10px;
+            }
+
+            .content {
+                text-align: center;
+            }
+
+            .links > a {
+                color: black;
+                padding: 0 25px;
+                font-size: 12px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+
+            .m-b-md {
+                margin-bottom: 30px;
+            }
+            
+            p {
+                color:black;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center">
+
+
+            <div class="content">
+<p><code>Service Name: Artist Search</code></p>
+<p><code>Address: http://localhost/api/</code></p>
+<table border=".3" cellspacing="1" cellpadding="3" bordercolor="white">
+  <tbody><tr bgcolor="#8BB381">
+    <td width="50">
+<p><strong>Resource</strong></p></td>
+    <td width="73"><p><strong>Methods</strong></p></td>
+    <td width="163"><p><strong>URI</strong></p></td>
+    <td width="188"><p><strong>Description</strong></p></td>
+  </tr>
+  <tr bgcolor="#d6e8d2">
+    <td width="50" valign="top"><p>Search</p></td>
+    <td width="73" valign="top"><p><code>GET</code></p></td>
+    <td width="163" valign="top"><p>http://localhost/api/search?</p>
+<p>  </p></td>
+    <td width="188" valign="top"><p>Search artists</p>
+<p>    <strong>Format:</strong> text/json</p>
+<p>    <strong>Query Parameters:</strong></p>
+<p>    Name: String, optional, Name of artist or handle.&nbsp;&nbsp;Includes partial match.&nbsp;&nbsp;If not provided then search will result in all artists</p>
+<p>    Type<strong>: </strong>String, artist.</p></td>
+  </tr>
+</tbody></table>
+<p></p>
+
+            </div>
+        </div>
+    </body>
+</html>

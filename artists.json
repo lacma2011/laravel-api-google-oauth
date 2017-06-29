@@ -1,0 +1,1203 @@
+{
+    "artists": [{
+        "artist_id": "365",
+        "artist_handle": "___",
+        "artist_name": "!!!"
+    }, {
+        "artist_id": "5786",
+        "artist_handle": "Blue_Gene_Tyranny",
+        "artist_name": "\"Blue\" Gene Tyranny"
+    }, {
+        "artist_id": "12144",
+        "artist_handle": "V_1633",
+        "artist_name": "\"V\""
+    }, {
+        "artist_id": "8993",
+        "artist_handle": "254_-_The_Arcade_Fire_Answers_Your_Questions",
+        "artist_name": "#254 - The Arcade Fire Answers Your Questions"
+    }, {
+        "artist_id": "16717",
+        "artist_handle": "CCmixtape",
+        "artist_name": "#CCmixtape"
+    }, {
+        "artist_id": "19137",
+        "artist_handle": "50_Trumpet",
+        "artist_name": "$50 Trumpet"
+    }, {
+        "artist_id": "22130",
+        "artist_handle": "pace_Vampires",
+        "artist_name": "$pace Vampires"
+    }, {
+        "artist_id": "6469",
+        "artist_handle": "Gene_Green_1228",
+        "artist_name": "'Gene Green"
+    }, {
+        "artist_id": "23690",
+        "artist_handle": "_Early__Salom_Lego_Playset",
+        "artist_name": "( Early ) Salom\u00e8 Lego Playset"
+    }, {
+        "artist_id": "9816",
+        "artist_handle": "_vlub_",
+        "artist_name": "((( vlub\u00e4 )))"
+    }, {
+        "artist_id": "22530",
+        "artist_handle": "_Bohrer_",
+        "artist_name": "((Bohrer))"
+    }, {
+        "artist_id": "22531",
+        "artist_handle": "Bohrer",
+        "artist_name": "((Bohrer))"
+    }, {
+        "artist_id": "18887",
+        "artist_handle": "-_1331",
+        "artist_name": "(-)"
+    }, {
+        "artist_id": "15902",
+        "artist_handle": "a_is_to_b",
+        "artist_name": "(a is to b)"
+    }, {
+        "artist_id": "16155",
+        "artist_handle": "cPee",
+        "artist_name": "(c)(P)ee"
+    }, {
+        "artist_id": "10517",
+        "artist_handle": "DBH",
+        "artist_name": "(D)(B)(H)"
+    }, {
+        "artist_id": "14762",
+        "artist_handle": "dj_morsanek",
+        "artist_name": "(dj) morsanek"
+    }, {
+        "artist_id": "16673",
+        "artist_handle": "FEVER",
+        "artist_name": "(F.E.V.E.R.)"
+    }, {
+        "artist_id": "16860",
+        "artist_handle": "morse",
+        "artist_name": "(morse)"
+    }, {
+        "artist_id": "12507",
+        "artist_handle": "Suppression_with_Crank_Sturgeon",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "14643",
+        "artist_handle": "Air_Tycoon",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "16333",
+        "artist_handle": "Davorin_Pavlovi__Kristina_Pavlovi_1202",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "18827",
+        "artist_handle": "none_given_1507",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "18828",
+        "artist_handle": "none_given_1908",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "21212",
+        "artist_handle": "none_given_1807",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "21213",
+        "artist_handle": "none_given_1940",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "21367",
+        "artist_handle": "none_given_1244",
+        "artist_name": "(none given)"
+    }, {
+        "artist_id": "23960",
+        "artist_handle": "others",
+        "artist_name": "(o)thers"
+    }, {
+        "artist_id": "13525",
+        "artist_handle": "_2810",
+        "artist_name": "+"
+    }, {
+        "artist_id": "16094",
+        "artist_handle": "CNCTD_Yellow_Crystal_Star",
+        "artist_name": "+CNCTD, Yellow Crystal Star"
+    }, {
+        "artist_id": "13605",
+        "artist_handle": "DOG",
+        "artist_name": "+DOG+"
+    }, {
+        "artist_id": "15240",
+        "artist_handle": "HIRS",
+        "artist_name": "+HIRS+"
+    }, {
+        "artist_id": "13538",
+        "artist_handle": "-",
+        "artist_name": "-"
+    }, {
+        "artist_id": "22927",
+        "artist_handle": "-_AnKh_",
+        "artist_name": "- A.n.K.h \/\/"
+    }, {
+        "artist_id": "6611",
+        "artist_handle": "-1348-",
+        "artist_name": "-1348-"
+    }, {
+        "artist_id": "13625",
+        "artist_handle": "ono",
+        "artist_name": "-ono-"
+    }, {
+        "artist_id": "15752",
+        "artist_handle": "-soundso-",
+        "artist_name": "-soundso-"
+    }, {
+        "artist_id": "23954",
+        "artist_handle": "quite_simplyCUNT",
+        "artist_name": "..quite simply...CUNT"
+    }, {
+        "artist_id": "17886",
+        "artist_handle": "357_Lover",
+        "artist_name": ".357 Lover"
+    }, {
+        "artist_id": "8263",
+        "artist_handle": "aton",
+        "artist_name": ".at\/on"
+    }, {
+        "artist_id": "14023",
+        "artist_handle": "crk",
+        "artist_name": ".crk"
+    }, {
+        "artist_id": "14481",
+        "artist_handle": "message",
+        "artist_name": ".message"
+    }, {
+        "artist_id": "7414",
+        "artist_handle": "RR",
+        "artist_name": ".RR"
+    }, {
+        "artist_id": "22787",
+        "artist_handle": "zigo",
+        "artist_name": ".zigo"
+    }, {
+        "artist_id": "10232",
+        "artist_handle": "_1524",
+        "artist_name": "\/"
+    }, {
+        "artist_id": "8711",
+        "artist_handle": "angstalt",
+        "artist_name": "\/'angstalt\/"
+    }, {
+        "artist_id": "11925",
+        "artist_handle": "HORSE_MACGYVER_1292",
+        "artist_name": "\/\/\/'HORSE MACGYVER\\\\\\"
+    }, {
+        "artist_id": "5957",
+        "artist_handle": "003Labs",
+        "artist_name": "003Labs"
+    }, {
+        "artist_id": "9250",
+        "artist_handle": "00Genesis",
+        "artist_name": "00Genesis"
+    }, {
+        "artist_id": "21827",
+        "artist_handle": "01_Waiting_for_the_Hurricane",
+        "artist_name": "01 Waiting for the Hurricane"
+    }, {
+        "artist_id": "23882",
+        "artist_handle": "01110010",
+        "artist_name": "01110010"
+    }, {
+        "artist_id": "21828",
+        "artist_handle": "02_I_Cant_Breathe",
+        "artist_name": "02 I Can't Breathe"
+    }, {
+        "artist_id": "13647",
+        "artist_handle": "02_Elements",
+        "artist_name": "02_Elements"
+    }, {
+        "artist_id": "21829",
+        "artist_handle": "03_Liberty_and_Justice_For_All",
+        "artist_name": "03 Liberty and Justice For All"
+    }, {
+        "artist_id": "16912",
+        "artist_handle": "03_Elements",
+        "artist_name": "03_Elements"
+    }, {
+        "artist_id": "21830",
+        "artist_handle": "04_Before_the_War_Came_Home",
+        "artist_name": "04 Before the War Came Home"
+    }, {
+        "artist_id": "14229",
+        "artist_handle": "04_Elements",
+        "artist_name": "04_Elements"
+    }, {
+        "artist_id": "21831",
+        "artist_handle": "05_Denmark_1943",
+        "artist_name": "05 Denmark 1943"
+    }, {
+        "artist_id": "13648",
+        "artist_handle": "05_Elements",
+        "artist_name": "05_Elements"
+    }, {
+        "artist_id": "21832",
+        "artist_handle": "06_Angry_White_American_Man",
+        "artist_name": "06 Angry White American Man"
+    }, {
+        "artist_id": "14838",
+        "artist_handle": "06_Elements",
+        "artist_name": "06_Elements"
+    }, {
+        "artist_id": "21833",
+        "artist_handle": "07_State_House_Lawn",
+        "artist_name": "07 State House Lawn"
+    }, {
+        "artist_id": "14230",
+        "artist_handle": "07_Elements",
+        "artist_name": "07_Elements"
+    }, {
+        "artist_id": "21834",
+        "artist_handle": "08_They_All_Sang_the_Internationale",
+        "artist_name": "08 They All Sang the Internationale"
+    }, {
+        "artist_id": "14231",
+        "artist_handle": "08_Elements",
+        "artist_name": "08_Elements"
+    }, {
+        "artist_id": "21835",
+        "artist_handle": "09_Kobane",
+        "artist_name": "09 Kobane"
+    }, {
+        "artist_id": "14841",
+        "artist_handle": "09_Elements",
+        "artist_name": "09_Elements"
+    }, {
+        "artist_id": "15603",
+        "artist_handle": "1",
+        "artist_name": "1"
+    }, {
+        "artist_id": "22601",
+        "artist_handle": "1_800_Band",
+        "artist_name": "1 800 Band"
+    }, {
+        "artist_id": "7487",
+        "artist_handle": "1_Riche_Kannibal",
+        "artist_name": "1 Riche Kannibal"
+    }, {
+        "artist_id": "2620",
+        "artist_handle": "1234",
+        "artist_name": "1,2,3,4"
+    }, {
+        "artist_id": "14462",
+        "artist_handle": "1-800-Band",
+        "artist_name": "1-800-Band"
+    }, {
+        "artist_id": "14226",
+        "artist_handle": "1-PARAL-LEL",
+        "artist_name": "1-PARAL-LEL"
+    }, {
+        "artist_id": "6929",
+        "artist_handle": "1-Speed_Bike",
+        "artist_name": "1-Speed Bike"
+    }, {
+        "artist_id": "19877",
+        "artist_handle": "1_My_brother_Daniel",
+        "artist_name": "1. My brother Daniel"
+    }, {
+        "artist_id": "9708",
+        "artist_handle": "11111",
+        "artist_name": "1.1111"
+    }, {
+        "artist_id": "17102",
+        "artist_handle": "123",
+        "artist_name": "1.2.3."
+    }, {
+        "artist_id": "4229",
+        "artist_handle": "16_Band",
+        "artist_name": "1.6 Band"
+    }, {
+        "artist_id": "11614",
+        "artist_handle": "12_byZERO__Nik_RUbanov",
+        "artist_name": "1\/2 byZERO & Nik RUbanov"
+    }, {
+        "artist_id": "16479",
+        "artist_handle": "12_Kaputt_Kurzwellen",
+        "artist_name": "1\/2 Kaputt Kurzwellen"
+    }, {
+        "artist_id": "2999",
+        "artist_handle": "10",
+        "artist_name": "10"
+    }, {
+        "artist_id": "21836",
+        "artist_handle": "10_Joe_Hill",
+        "artist_name": "10 Joe Hill"
+    }, {
+        "artist_id": "15629",
+        "artist_handle": "10-PARAL-LEL",
+        "artist_name": "10-PARAL-LEL"
+    }, {
+        "artist_id": "18976",
+        "artist_handle": "100_BLACK",
+        "artist_name": "100% BLACK"
+    }, {
+        "artist_id": "21048",
+        "artist_handle": "100_Chevalier",
+        "artist_name": "100% Chevalier"
+    }, {
+        "artist_id": "21049",
+        "artist_handle": "100chevalier",
+        "artist_name": "100%chevalier"
+    }, {
+        "artist_id": "23728",
+        "artist_handle": "1000_B",
+        "artist_name": "1000 B"
+    }, {
+        "artist_id": "23727",
+        "artist_handle": "1000_Bouches",
+        "artist_name": "1000 Bouches"
+    }, {
+        "artist_id": "12389",
+        "artist_handle": "1000_Names_1770",
+        "artist_name": "1000 Names"
+    }, {
+        "artist_id": "7142",
+        "artist_handle": "1000_names",
+        "artist_name": "1000names"
+    }, {
+        "artist_id": "21665",
+        "artist_handle": "101_KABA_GAIDI_-_New_York",
+        "artist_name": "101 KABA GAIDI - New York"
+    }, {
+        "artist_id": "19560",
+        "artist_handle": "101_Kaba_Gaidi_New_York",
+        "artist_name": "101 Kaba Gaidi New York"
+    }, {
+        "artist_id": "4624",
+        "artist_handle": "101_Player_Feat_Sillypoo",
+        "artist_name": "101 Player Feat. Sillypoo"
+    }, {
+        "artist_id": "9015",
+        "artist_handle": "10Konekt",
+        "artist_name": "10Konekt"
+    }, {
+        "artist_id": "23951",
+        "artist_handle": "10Konekt_Vs_MIXoLIVe",
+        "artist_name": "10Konekt Vs MIXoLIVe"
+    }, {
+        "artist_id": "19755",
+        "artist_handle": "10ksqft_Werehaus",
+        "artist_name": "10ksqft Werehaus"
+    }, {
+        "artist_id": "16410",
+        "artist_handle": "11-PARAL-LEL",
+        "artist_name": "11-PARAL-LEL"
+    }, {
+        "artist_id": "18412",
+        "artist_handle": "11_tage",
+        "artist_name": "11\u00e8 \u00e9tage"
+    }, {
+        "artist_id": "17075",
+        "artist_handle": "11me_tage",
+        "artist_name": "11\u00e8me \u00e9tage"
+    }, {
+        "artist_id": "16409",
+        "artist_handle": "11_Elements",
+        "artist_name": "11_Elements"
+    }, {
+        "artist_id": "5672",
+        "artist_handle": "12_bit_murder",
+        "artist_name": "12 bit murder"
+    }, {
+        "artist_id": "16411",
+        "artist_handle": "12-PARAL-LEL",
+        "artist_name": "12-PARAL-LEL"
+    }, {
+        "artist_id": "9521",
+        "artist_handle": "123SYF_1724",
+        "artist_name": "123SYF"
+    }, {
+        "artist_id": "16412",
+        "artist_handle": "13-PARAL-LEL",
+        "artist_name": "13-PARAL-LEL"
+    }, {
+        "artist_id": "10700",
+        "artist_handle": "13adluck__uh-oh",
+        "artist_name": "13adluck & uh-oh"
+    }, {
+        "artist_id": "18889",
+        "artist_handle": "13b-PARAL-LEL",
+        "artist_name": "13b-PARAL-LEL"
+    }, {
+        "artist_id": "17776",
+        "artist_handle": "14_Foot_1",
+        "artist_name": "14 Foot 1"
+    }, {
+        "artist_id": "17472",
+        "artist_handle": "14-PARAL-LEL",
+        "artist_name": "14-PARAL-LEL"
+    }, {
+        "artist_id": "7299",
+        "artist_handle": "1400_POINTS_DE_SUTURE",
+        "artist_name": "1400 POINTS DE SUTURE"
+    }, {
+        "artist_id": "6532",
+        "artist_handle": "143_",
+        "artist_name": "143"
+    }, {
+        "artist_id": "17473",
+        "artist_handle": "15-PARAL-LEL",
+        "artist_name": "15-PARAL-LEL"
+    }, {
+        "artist_id": "16244",
+        "artist_handle": "16_Squares_G",
+        "artist_name": "16 Squares G"
+    }, {
+        "artist_id": "20220",
+        "artist_handle": "16-PARAL-LEL",
+        "artist_name": "16-PARAL-LEL"
+    }, {
+        "artist_id": "21173",
+        "artist_handle": "17-PARAL-LEL",
+        "artist_name": "17-PARAL-LEL"
+    }, {
+        "artist_id": "14055",
+        "artist_handle": "18_Carat_Affair",
+        "artist_name": "18 Carat Affair"
+    }, {
+        "artist_id": "23545",
+        "artist_handle": "1DEMIdeGT2",
+        "artist_name": "1DEMIdeGT2"
+    }, {
+        "artist_id": "15743",
+        "artist_handle": "1in10Varia",
+        "artist_name": "1in10\/Varia"
+    }, {
+        "artist_id": "23044",
+        "artist_handle": "1KATHARSIX",
+        "artist_name": "1KATHARSIX"
+    }, {
+        "artist_id": "19205",
+        "artist_handle": "1NC1D3N7",
+        "artist_name": "1N.C1.D3.N7"
+    }, {
+        "artist_id": "6973",
+        "artist_handle": "1st_Dude",
+        "artist_name": "1st Dude"
+    }, {
+        "artist_id": "15604",
+        "artist_handle": "2",
+        "artist_name": "2"
+    }, {
+        "artist_id": "7325",
+        "artist_handle": "2_cholitas",
+        "artist_name": "2 cholitas"
+    }, {
+        "artist_id": "367",
+        "artist_handle": "2_Foot_Flame",
+        "artist_name": "2 Foot Flame"
+    }, {
+        "artist_id": "4428",
+        "artist_handle": "2_nite__4eva_Sermon",
+        "artist_name": "2 nite + 4eva Sermon"
+    }, {
+        "artist_id": "2183",
+        "artist_handle": "2_Tall",
+        "artist_name": "2 Tall"
+    }, {
+        "artist_id": "10481",
+        "artist_handle": "2_Ton_Bug",
+        "artist_name": "2 Ton Bug"
+    }, {
+        "artist_id": "18012",
+        "artist_handle": "2_TOTEMS",
+        "artist_name": "2 TOTEMS"
+    }, {
+        "artist_id": "16841",
+        "artist_handle": "2_Wick_To_You",
+        "artist_name": "2 Wick To You"
+    }, {
+        "artist_id": "14227",
+        "artist_handle": "2-PARAL-LEL",
+        "artist_name": "2-PARAL-LEL"
+    }, {
+        "artist_id": "368",
+        "artist_handle": "25_BZ",
+        "artist_name": "2\/5 BZ"
+    }, {
+        "artist_id": "12767",
+        "artist_handle": "20000_Punks",
+        "artist_name": "20000 Punks"
+    }, {
+        "artist_id": "15214",
+        "artist_handle": "20lb_Sounds",
+        "artist_name": "20lb Sounds"
+    }, {
+        "artist_id": "5974",
+        "artist_handle": "22tape",
+        "artist_name": "22tape"
+    }, {
+        "artist_id": "22229",
+        "artist_handle": "23_And_Beyond_The_Infinite",
+        "artist_name": "23 And Beyond The Infinite"
+    }, {
+        "artist_id": "12723",
+        "artist_handle": "23ID",
+        "artist_name": "23ID"
+    }, {
+        "artist_id": "6980",
+        "artist_handle": "24_Hours",
+        "artist_name": "24 Hours"
+    }, {
+        "artist_id": "17822",
+        "artist_handle": "25_",
+        "artist_name": "25 \u041a\u0423\u0421\u0422\u041e\u0412"
+    }, {
+        "artist_id": "11022",
+        "artist_handle": "27B",
+        "artist_name": "27B"
+    }, {
+        "artist_id": "17525",
+        "artist_handle": "2Kutup",
+        "artist_name": "2Kutup"
+    }, {
+        "artist_id": "17967",
+        "artist_handle": "2Kutup__Floating_Spirits",
+        "artist_name": "2Kutup & Floating Spirits"
+    }, {
+        "artist_id": "23606",
+        "artist_handle": "2L8",
+        "artist_name": "2L8"
+    }, {
+        "artist_id": "9341",
+        "artist_handle": "2methylBulbe1ol",
+        "artist_name": "2methylBulbe1ol"
+    }, {
+        "artist_id": "18302",
+        "artist_handle": "2ndMOUSE",
+        "artist_name": "2ndMOUSE"
+    }, {
+        "artist_id": "23941",
+        "artist_handle": "2nnt",
+        "artist_name": "2nnt"
+    }, {
+        "artist_id": "10467",
+        "artist_handle": "2NRO8OT",
+        "artist_name": "2NRO8OT"
+    }, {
+        "artist_id": "23053",
+        "artist_handle": "2pingou1",
+        "artist_name": "2pingou1"
+    }, {
+        "artist_id": "6005",
+        "artist_handle": "2pol",
+        "artist_name": "2pol"
+    }, {
+        "artist_id": "9085",
+        "artist_handle": "2pol__Timbou__Clewe",
+        "artist_name": "2pol & Timbou & Clewe"
+    }, {
+        "artist_id": "15889",
+        "artist_handle": "2SCD__Some_Asian_Females_Bodybuilders",
+        "artist_name": "2SCD & Some Asian Females Bodybuilders"
+    }, {
+        "artist_id": "15608",
+        "artist_handle": "3",
+        "artist_name": "3"
+    }, {
+        "artist_id": "4562",
+        "artist_handle": "3_Bears_Quartet_feat_EOR",
+        "artist_name": "3 Bears Quartet feat. E.O.R."
+    }, {
+        "artist_id": "14228",
+        "artist_handle": "3-PARAL-LEL",
+        "artist_name": "3-PARAL-LEL"
+    }, {
+        "artist_id": "11987",
+        "artist_handle": "303db",
+        "artist_name": "303db"
+    }, {
+        "artist_id": "13121",
+        "artist_handle": "30eks",
+        "artist_name": "30[eks]"
+    }, {
+        "artist_id": "2576",
+        "artist_handle": "31_de_Octubre",
+        "artist_name": "31 de Octubre"
+    }, {
+        "artist_id": "12150",
+        "artist_handle": "320320320320",
+        "artist_name": "320320320320"
+    }, {
+        "artist_id": "6503",
+        "artist_handle": "37_Pink",
+        "artist_name": "37 Pink"
+    }, {
+        "artist_id": "24032",
+        "artist_handle": "3bc",
+        "artist_name": "3bc"
+    }, {
+        "artist_id": "13582",
+        "artist_handle": "3D_TV",
+        "artist_name": "3D TV"
+    }, {
+        "artist_id": "18297",
+        "artist_handle": "3dtorus",
+        "artist_name": "3dtorus"
+    }, {
+        "artist_id": "13267",
+        "artist_handle": "3eese",
+        "artist_name": "3eese"
+    }, {
+        "artist_id": "21588",
+        "artist_handle": "3K3",
+        "artist_name": "3K3"
+    }, {
+        "artist_id": "23976",
+        "artist_handle": "3music",
+        "artist_name": "3music"
+    }, {
+        "artist_id": "4711",
+        "artist_handle": "3Puen",
+        "artist_name": "3Puen"
+    }, {
+        "artist_id": "3577",
+        "artist_handle": "3Sacchetti",
+        "artist_name": "3Sacchetti"
+    }, {
+        "artist_id": "15941",
+        "artist_handle": "3tronik",
+        "artist_name": "3tronik"
+    }, {
+        "artist_id": "15616",
+        "artist_handle": "4",
+        "artist_name": "4"
+    }, {
+        "artist_id": "6846",
+        "artist_handle": "4000000_Telephones",
+        "artist_name": "4,000,000 Telephones"
+    }, {
+        "artist_id": "6793",
+        "artist_handle": "4000000_Telephones__Raymond_Scott",
+        "artist_name": "4,000,000 Telephones & Raymond Scott"
+    }, {
+        "artist_id": "14836",
+        "artist_handle": "4-PARAL-LEL",
+        "artist_name": "4-PARAL-LEL"
+    }, {
+        "artist_id": "1691",
+        "artist_handle": "400_Blows",
+        "artist_name": "400 Blows"
+    }, {
+        "artist_id": "7092",
+        "artist_handle": "484",
+        "artist_name": "48\/4"
+    }, {
+        "artist_id": "7134",
+        "artist_handle": "4di",
+        "artist_name": "4di"
+    }, {
+        "artist_id": "11121",
+        "artist_handle": "4mat",
+        "artist_name": "4mat"
+    }, {
+        "artist_id": "23015",
+        "artist_handle": "4T_Thieves",
+        "artist_name": "4T Thieves"
+    }, {
+        "artist_id": "2396",
+        "artist_handle": "5man",
+        "artist_name": "5$man"
+    }, {
+        "artist_id": "7810",
+        "artist_handle": "5-40_am",
+        "artist_name": "5-40 am"
+    }, {
+        "artist_id": "14837",
+        "artist_handle": "5-PARAL-LEL",
+        "artist_name": "5-PARAL-LEL"
+    }, {
+        "artist_id": "2345",
+        "artist_handle": "50_Foot_Wave",
+        "artist_name": "50 Foot Wave"
+    }, {
+        "artist_id": "19626",
+        "artist_handle": "505",
+        "artist_name": "505"
+    }, {
+        "artist_id": "1919",
+        "artist_handle": "50FOOTWAVE",
+        "artist_name": "50FOOTWAVE"
+    }, {
+        "artist_id": "8482",
+        "artist_handle": "51",
+        "artist_name": "51%"
+    }, {
+        "artist_id": "555",
+        "artist_handle": "Cement_Head",
+        "artist_name": "555"
+    }, {
+        "artist_id": "371",
+        "artist_handle": "5678s",
+        "artist_name": "5678's"
+    }, {
+        "artist_id": "7243",
+        "artist_handle": "5unday5essions",
+        "artist_name": "5unday5essions"
+    }, {
+        "artist_id": "8506",
+        "artist_handle": "6_or_7",
+        "artist_name": "6 or 7"
+    }, {
+        "artist_id": "14839",
+        "artist_handle": "6-PARAL-LEL",
+        "artist_name": "6-PARAL-LEL"
+    }, {
+        "artist_id": "22323",
+        "artist_handle": "69_Hz",
+        "artist_name": "6.9 Hz"
+    }, {
+        "artist_id": "2887",
+        "artist_handle": "60_Tigres",
+        "artist_name": "60 Tigres"
+    }, {
+        "artist_id": "22516",
+        "artist_handle": "6128F",
+        "artist_name": "6128F"
+    }, {
+        "artist_id": "24001",
+        "artist_handle": "6128F_vs_ENJOYABLE_MUSIC",
+        "artist_name": "6128F vs ENJOYABLE MUSIC"
+    }, {
+        "artist_id": "23826",
+        "artist_handle": "6128F_CRIVELLATOR",
+        "artist_name": "6128F_CRIVELLATOR"
+    }, {
+        "artist_id": "9811",
+        "artist_handle": "6majik9",
+        "artist_name": "6majik9"
+    }, {
+        "artist_id": "3089",
+        "artist_handle": "6th_Sense",
+        "artist_name": "6th Sense"
+    }, {
+        "artist_id": "3094",
+        "artist_handle": "6th_Sense_amp_Mick_Boogie",
+        "artist_name": "6th Sense &amp; Mick Boogie"
+    }, {
+        "artist_id": "3129",
+        "artist_handle": "6th_Sense__Mick_Boogie",
+        "artist_name": "6th Sense + Mick Boogie"
+    }, {
+        "artist_id": "18599",
+        "artist_handle": "7_i_i",
+        "artist_name": "7 i i"
+    }, {
+        "artist_id": "7554",
+        "artist_handle": "7_sexes__l_glise",
+        "artist_name": "7 sexes \u00e0 l \u00e9glise"
+    }, {
+        "artist_id": "14840",
+        "artist_handle": "7-PARAL-LEL",
+        "artist_name": "7-PARAL-LEL"
+    }, {
+        "artist_id": "19409",
+        "artist_handle": "75_Dollar_Bill",
+        "artist_name": "75 Dollar Bill"
+    }, {
+        "artist_id": "18064",
+        "artist_handle": "7b-PARAL-LEL",
+        "artist_name": "7b-PARAL-LEL"
+    }, {
+        "artist_id": "23026",
+        "artist_handle": "7eventh_4loor",
+        "artist_name": "7eventh 4loor"
+    }, {
+        "artist_id": "7555",
+        "artist_handle": "7sexes__l_glise",
+        "artist_name": "7sexes \u00e0 l \u00e9glise"
+    }, {
+        "artist_id": "17581",
+        "artist_handle": "7U_Channeling_Wesley_Willis",
+        "artist_name": "7U? (Channeling Wesley Willis"
+    }, {
+        "artist_id": "17582",
+        "artist_handle": "7U_Channeling_Wesley_Willis_1318",
+        "artist_name": "7U? (Channeling Wesley Willis)"
+    }, {
+        "artist_id": "1774",
+        "artist_handle": "8_Bit_Weapon",
+        "artist_name": "8 Bit Weapon"
+    }, {
+        "artist_id": "6998",
+        "artist_handle": "8_Eye_Spy",
+        "artist_name": "8 Eye Spy"
+    }, {
+        "artist_id": "10357",
+        "artist_handle": "8-Bit_Ninjas",
+        "artist_name": "8-Bit Ninjas"
+    }, {
+        "artist_id": "15627",
+        "artist_handle": "8-PARAL-LEL",
+        "artist_name": "8-PARAL-LEL"
+    }, {
+        "artist_id": "21174",
+        "artist_handle": "876_Trio_plus___Magliocchi_Van_Schouwburg_and_Boss_plus_Del_Piano",
+        "artist_name": "876 Trio plus _ Magliocchi, Van Schouwburg and Boss plus Del Piano"
+    }, {
+        "artist_id": "7357",
+        "artist_handle": "8bit_Betty",
+        "artist_name": "8bit Betty"
+    }, {
+        "artist_id": "9260",
+        "artist_handle": "8Bitch",
+        "artist_name": "8Bitch"
+    }, {
+        "artist_id": "12547",
+        "artist_handle": "8in8",
+        "artist_name": "8in8"
+    }, {
+        "artist_id": "22508",
+        "artist_handle": "8m",
+        "artist_name": "8m"
+    }, {
+        "artist_id": "3253",
+        "artist_handle": "8m2stereo",
+        "artist_name": "8m2stereo"
+    }, {
+        "artist_id": "3763",
+        "artist_handle": "8m2stereo_1988",
+        "artist_name": "8m2stereo"
+    }, {
+        "artist_id": "15628",
+        "artist_handle": "9-PARAL-LEL",
+        "artist_name": "9-PARAL-LEL"
+    }, {
+        "artist_id": "14692",
+        "artist_handle": "900piesek",
+        "artist_name": "900piesek"
+    }, {
+        "artist_id": "17101",
+        "artist_handle": "99_cents",
+        "artist_name": "99 cents"
+    }, {
+        "artist_id": "3883",
+        "artist_handle": "99_Tales",
+        "artist_name": "99 Tales"
+    }, {
+        "artist_id": "364",
+        "artist_handle": "999",
+        "artist_name": "999"
+    }, {
+        "artist_id": "17111",
+        "artist_handle": "99cents",
+        "artist_name": "99cents"
+    }, {
+        "artist_id": "3981",
+        "artist_handle": "9th_Scientist",
+        "artist_name": "9th Scientist"
+    }, {
+        "artist_id": "8550",
+        "artist_handle": "dehumanizer",
+        "artist_name": ":dehumanizer:"
+    }, {
+        "artist_id": "22941",
+        "artist_handle": "such",
+        "artist_name": ":such:"
+    }, {
+        "artist_id": "17090",
+        "artist_handle": "1_1074",
+        "artist_name": "?+1"
+    }, {
+        "artist_id": "7331",
+        "artist_handle": "_1473",
+        "artist_name": "???"
+    }, {
+        "artist_id": "14196",
+        "artist_handle": "alos",
+        "artist_name": "?alos"
+    }, {
+        "artist_id": "13937",
+        "artist_handle": "A_Banda_de_Joseph_Tourton",
+        "artist_name": "A Banda de Joseph Tourton"
+    }, {
+        "artist_id": "18468",
+        "artist_handle": "A_C_Slate_no_r",
+        "artist_name": "A C Slate no r"
+    }, {
+        "artist_id": "3842",
+        "artist_handle": "A_Camp",
+        "artist_name": "A Camp"
+    }, {
+        "artist_id": "19406",
+        "artist_handle": "A_Crooked_Pulse",
+        "artist_name": "A Crooked Pulse"
+    }, {
+        "artist_id": "3692",
+        "artist_handle": "A_delicate_balance",
+        "artist_name": "A delicate balance"
+    }, {
+        "artist_id": "16695",
+        "artist_handle": "A_Demon_Sheen",
+        "artist_name": "A Demon Sheen"
+    }, {
+        "artist_id": "10630",
+        "artist_handle": "A_Far_Cry",
+        "artist_name": "A Far Cry"
+    }, {
+        "artist_id": "10998",
+        "artist_handle": "A_Faulty_Chromosome",
+        "artist_name": "A Faulty Chromosome"
+    }, {
+        "artist_id": "6490",
+        "artist_handle": "A_Foggy_Realm",
+        "artist_name": "A Foggy Realm"
+    }, {
+        "artist_id": "15630",
+        "artist_handle": "A_Friendly_Grey",
+        "artist_name": "A Friendly Grey"
+    }, {
+        "artist_id": "22583",
+        "artist_handle": "A_Giant_Dog",
+        "artist_name": "A Giant Dog"
+    }, {
+        "artist_id": "5757",
+        "artist_handle": "A_Hawk_and_a_Hacksaw",
+        "artist_name": "A Hawk and a Hacksaw"
+    }, {
+        "artist_id": "18923",
+        "artist_handle": "a_k_u_a",
+        "artist_name": "a k u a"
+    }, {
+        "artist_id": "2243",
+        "artist_handle": "A_Kombi",
+        "artist_name": "A Kombi"
+    }, {
+        "artist_id": "21296",
+        "artist_handle": "A_la_Mode",
+        "artist_name": "A la Mode"
+    }, {
+        "artist_id": "8834",
+        "artist_handle": "A_Lifetime_Of_Trials",
+        "artist_name": "A Lifetime Of Trials"
+    }, {
+        "artist_id": "15210",
+        "artist_handle": "A_Magnifique_Bande_dos_Homes_sen_Medo",
+        "artist_name": "A Magnifique Bande dos Homes sen Medo"
+    }, {
+        "artist_id": "10215",
+        "artist_handle": "A_Million_Years_Ago",
+        "artist_name": "A Million Years Ago"
+    }, {
+        "artist_id": "20654",
+        "artist_handle": "A_Minha_Embala_Aline_Frazo_e_Csar_Herranz",
+        "artist_name": "A Minha Embala (Aline Fraz\u00e3o e C\u00e9sar Herranz)"
+    }, {
+        "artist_id": "23593",
+        "artist_handle": "A_Minor_Place",
+        "artist_name": "A Minor Place"
+    }, {
+        "artist_id": "21289",
+        "artist_handle": "A_New_Silent_Corporation",
+        "artist_name": "A New Silent Corporation"
+    }, {
+        "artist_id": "20521",
+        "artist_handle": "A_Ninja_Slob_Drew_Me",
+        "artist_name": "A Ninja Slob Drew Me"
+    }, {
+        "artist_id": "17707",
+        "artist_handle": "A_Paranoid_Android",
+        "artist_name": "A Paranoid Android"
+    }, {
+        "artist_id": "1135",
+        "artist_handle": "A_Place_to_Bury_Strangers_",
+        "artist_name": "A Place to Bury Strangers"
+    }, {
+        "artist_id": "13066",
+        "artist_handle": "A_Quiet_Monday",
+        "artist_name": "A Quiet Monday"
+    }, {
+        "artist_id": "9840",
+        "artist_handle": "A_Sistem_Rijek",
+        "artist_name": "A Sistem Rijek?!"
+    }, {
+        "artist_id": "5457",
+        "artist_handle": "A_Smile_for_Timbuctu",
+        "artist_name": "A Smile for Timbuctu"
+    }, {
+        "artist_id": "20369",
+        "artist_handle": "A_Sound_Embrace",
+        "artist_name": "A Sound Embrace"
+    }, {
+        "artist_id": "20101",
+        "artist_handle": "A_Souvenir",
+        "artist_name": "A Souvenir"
+    }, {
+        "artist_id": "7876",
+        "artist_handle": "A_Sunny_Day_In_Glasgow",
+        "artist_name": "A Sunny Day in Glasgow"
+    }, {
+        "artist_id": "17989",
+        "artist_handle": "A_Thousand_Years",
+        "artist_name": "A Thousand Years"
+    }, {
+        "artist_id": "23301",
+        "artist_handle": "A_Throbbing_Member",
+        "artist_name": "A Throbbing Member"
+    }, {
+        "artist_id": "11104",
+        "artist_handle": "A_Very_Clever_Robot",
+        "artist_name": "A Very Clever Robot"
+    }, {
+        "artist_id": "12714",
+        "artist_handle": "A_Victim_Of_Society",
+        "artist_name": "A Victim Of Society"
+    }, {
+        "artist_id": "9172",
+        "artist_handle": "A_Way",
+        "artist_name": "A Way"
+    }, {
+        "artist_id": "8162",
+        "artist_handle": "A_Weather",
+        "artist_name": "A Weather"
+    }, {
+        "artist_id": "14842",
+        "artist_handle": "A_Xperisougs",
+        "artist_name": "A Xperisougs"
+    }, {
+        "artist_id": "18303",
+        "artist_handle": "Ad",
+        "artist_name": "A()d"
+    }, {
+        "artist_id": "15004",
+        "artist_handle": "A-1_Mr_Son",
+        "artist_name": "A-1 Mr. Son"
+    }, {
+        "artist_id": "23260",
+        "artist_handle": "A-Grav_Lab",
+        "artist_name": "A-Grav Lab"
+    }, {
+        "artist_id": "11217",
+        "artist_handle": "A-Rec",
+        "artist_name": "A-Rec"
+    }, {
+        "artist_id": "3402",
+        "artist_handle": "A-Scholars_Band",
+        "artist_name": "A-Scholars Band"
+    }, {
+        "artist_id": "20875",
+        "artist_handle": "A_G_Kush",
+        "artist_name": "A. G. Kush"
+    }, {
+        "artist_id": "15380",
+        "artist_handle": "A_JonesOBF",
+        "artist_name": "A. Jones\/OBF"
+    }, {
+        "artist_id": "2554",
+        "artist_handle": "A_Kevorkian",
+        "artist_name": "A. Kevorkian"
+    }, {
+        "artist_id": "13452",
+        "artist_handle": "A_P_Vague",
+        "artist_name": "A. P. Vague"
+    }, {
+        "artist_id": "5592",
+        "artist_handle": "AC_Newman",
+        "artist_name": "A.C. Newman"
+    }, {
+        "artist_id": "19805",
+        "artist_handle": "AGrossman_TEwell_BGrainger",
+        "artist_name": "A.Grossman T.Ewell B.Grainger"
+    }, {
+        "artist_id": "19929",
+        "artist_handle": "AH_Fork",
+        "artist_name": "A.H. Fork"
+    }, {
+        "artist_id": "19777",
+        "artist_handle": "AJ_1437",
+        "artist_name": "A.J."
+    }, {
+        "artist_id": "19578",
+        "artist_handle": "AK_Perkins",
+        "artist_name": "A.K Perkins"
+    }, {
+        "artist_id": "9513",
+        "artist_handle": "ALICE",
+        "artist_name": "A.L.I.C.E"
+    }, {
+        "artist_id": "7962",
+        "artist_handle": "AM",
+        "artist_name": "A.M"
+    }, {
+        "artist_id": "13733",
+        "artist_handle": "AM_1242",
+        "artist_name": "A.M."
+    }, {
+        "artist_id": "18861",
+        "artist_handle": "am_wiles",
+        "artist_name": "a.m. wiles"
+    }, {
+        "artist_id": "11050",
+        "artist_handle": "AMU",
+        "artist_name": "A.M.U"
+    }, {
+        "artist_id": "15431",
+        "artist_handle": "AMUton",
+        "artist_name": "A.M\/Uton"
+    }, {
+        "artist_id": "22715",
+        "artist_handle": "AnKh_",
+        "artist_name": "A.n.K.h \/\/"
+    }, {
+        "artist_id": "23375",
+        "artist_handle": "AnKh__vs_Milho-Sculpture",
+        "artist_name": "A.n.K.h \/\/ vs Milho-Sculpture"
+    }, {
+        "artist_id": "5180",
+        "artist_handle": "A1",
+        "artist_name": "A1"
+    }, {
+        "artist_id": "17394",
+        "artist_handle": "A3ek",
+        "artist_name": "A3ek"
+    }, {
+        "artist_id": "19667",
+        "artist_handle": "a505",
+        "artist_name": "a505"
+    }, {
+        "artist_id": "14730",
+        "artist_handle": "AAAHHHRCHESTRA",
+        "artist_name": "AAAHHHRCHESTRA"
+    }, {
+        "artist_id": "15035",
+        "artist_handle": "Aaahh_Records_Various_Artists",
+        "artist_name": "aaahhhrchestra"
+    }, {
+        "artist_id": "23546",
+        "artist_handle": "Aachn",
+        "artist_name": "Aachn"
+    }, {
+        "artist_id": "23422",
+        "artist_handle": "Aagic_Mlex",
+        "artist_name": "Aagic Mlex"
+    }, {
+        "artist_id": "8320",
+        "artist_handle": "aAirial",
+        "artist_name": "aAirial"
+    }, {
+        "artist_id": "10392",
+        "artist_handle": "Aalfang_mit_Pferdekopf",
+        "artist_name": "Aalfang mit Pferdekopf"
+    }, {
+        "artist_id": "9171",
+        "artist_handle": "AAN",
+        "artist_name": "Aan"
+    }, {
+        "artist_id": "19138",
+        "artist_handle": "Aardvark_vs_Some_Some_Unicorn",
+        "artist_name": "Aardvark vs Some Some Unicorn"
+    }, {
+        "artist_id": "21380",
+        "artist_handle": "Aaron__Ben_DeVries",
+        "artist_name": "Aaron & Ben DeVries"
+    }, {
+        "artist_id": "15910",
+        "artist_handle": "Aaron_Bathurst",
+        "artist_name": "Aaron Bathurst"
+    }]
+}

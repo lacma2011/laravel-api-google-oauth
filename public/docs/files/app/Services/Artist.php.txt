@@ -1,0 +1,43 @@
+<?php
+
+namespace App\Services;
+
+use App\Models\Artist as ArtistModel;
+/**
+ * Retrieve Artists
+ * 
+ */
+class Artist
+{
+    function __construct(ArtistModel $artist) {
+        $this->artist = $artist;
+    }
+
+    /**
+     * Get artists by name.
+     * 
+     * @param string $name Optional. Name or partial match
+     * @return array
+     */
+    function get($name = NULL) {
+        $results = array();
+        if (empty($name) && $name !== '0') {
+            $results = $this->artist
+                    ->select(['name', 'handle'])
+                    ->orderBy('name', 'asc')
+                    ->get();
+        } else {
+            $wild = '%'. $name . '%';
+            $results = $this->artist
+                    ->select(['name', 'handle'])
+                    ->where('name', 'LIKE', $wild)
+                    ->orWhere('handle', 'LIKE', $wild)
+                    ->orderBy('name', 'asc')
+                    ->get();
+        }
+
+        return $results;
+    }
+
+}
+

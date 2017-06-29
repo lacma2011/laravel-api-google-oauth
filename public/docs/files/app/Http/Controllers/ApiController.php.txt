@@ -1,0 +1,111 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Services\Artist as ArtistService;
+use Illuminate\Http\Request;
+use \Illuminate\Http\Response;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Routing\Controller as BaseController;
+
+class ApiController extends BaseController
+{
+    /**
+     *
+     * @var Request
+     */
+    private $request;
+
+    /**
+     * The fields and values of the Request object but with the fields in all lower-case.
+     * The fields must be case insensitive in API URL.
+     * 
+     * @var array
+     */
+    private $input;
+
+    /**
+     *
+     * @var App\Services\Artist
+     */
+    private $artistService;
+
+    /**
+     * Populates $input and $request properties
+     * 
+     * @param Request $request
+     * @param App\Services\Artist $artistService
+     */
+    public function __construct(Request $request, ArtistService $artistService) {
+        $this->request = $request;
+        foreach ($request->all() as $k=>$r) {
+            $this->input[strtolower($k)] = $r;
+        }
+        $this->artistService = $artistService;
+    }
+
+    /**
+     * Search for records. Currently only doing "artist" type
+     * 
+     * @return Response made with "response()"
+     */
+    public function search() {
+        $type = $this->getInput('type');
+
+        if (NULL === $type) {
+            return $this->apiResponse('Missing query "type".', [], 422);
+        }
+
+        if ($type !== 'artist') {
+            return $this->apiResponse('Wrong value for parameter "type". Use "artist"', [], 422);
+        }
+
+        // query is good
+
+        $name = $this->getInput('name');
+        $name_query = !empty($name) || $name === '0' ? $name : NULL;
+
+        $results = $this->artistService->get($name_query);
+
+        return $this->apiResponse('Results', $results);
+    }
+
+    /**
+     * Gets parameter. Return false if none found
+     * 
+     * @param string field name in lower-case
+     * @return mixed
+     */
+    private function getInput($field) {
+        $return = NULL;
+        if (key_exists($field, $this->input)) {
+            $return = $this->input[$field];
+        }
+        return $return;
+    }
+
+    /*
+     * Return an http response. For successful query, with or without results, returns with a format
+     * 
+     * @param string $message a nice message
+     * @param array $data the results
+     * @param integer $code (optional) HTTP response code. Default 200
+     * @return Response made with "response()"
+     */
+    private function apiResponse($message, $data = array(), $code = 200) {
+        if (200 === $code) {
+            $resp = response(json_encode([
+                'data' => $data,
+                'message' => $message,
+                'user' => [
+                    'name' => Auth::user()->name,
+                ],
+            ]), $code);
+        } else {
+            $resp = response(json_encode(['message'=> $message]), $code);
+        }
+        return $resp
+                ->header('Content-Type', 'application/json');
+    }
+}
+
