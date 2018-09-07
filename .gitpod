@@ -1,0 +1,5 @@
+ports:
+  - port: 8000
+    protocol: "http"
+tasks:
+  - command: "composer update && php artisan serve --host=0.0.0.0"
